@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:facc15&height=180&section=header&text=Omar%20Hern%C3%A1ndez&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Frontend%20%26%20Mobile%20Developer&descAlignY=55&descSize=18" width="100%" />
+<img src="assets/header.svg" width="100%" />
 
 <a href="https://github.com/OmaroScript">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FACC15&center=true&vCenter=true&width=600&lines=React+%26+React+Native+Developer;iOS+(Swift)+%26+Android+(Kotlin);Angular+%7C+Ionic+%7C+Capacitor;7%2B+a%C3%B1os+construyendo+apps+%F0%9F%9A%80" alt="Typing SVG" />
@@ -76,4 +76,4 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=OmaroScript&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:facc15,100:0f172a&height=100&section=footer" width="100%" />
+<img src="assets/footer.svg" width="100%" />
