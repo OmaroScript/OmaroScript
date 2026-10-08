@@ -1,5 +1,4 @@
-
-      <svg
+<svg
         width="854"
         height="180"
         xmlns="http://www.w3.org/2000/svg"
@@ -44,6 +43,6 @@
         </path>
       </g>
          <text text-anchor="middle" dominant-baseline="middle" x="50%" y="35%" class="text" style="fill:#ffffff;" stroke="#none" stroke-width="1" >Omar Hernández</text>
-        <text text-anchor="middle" dominant-baseline="middle" x="50%" y="55%" class="desc" style="fill:#ffffff;">Senior Frontend & Mobile Developer</text>
+        <text text-anchor="middle" dominant-baseline="middle" x="50%" y="55%" class="desc" style="fill:#ffffff;">Senior Frontend &amp; Mobile Developer</text>
       </svg>
     
